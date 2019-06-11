@@ -416,6 +416,21 @@
         "web": "https://www.ng-srilanka.com/",
         "twitter": "ngslconf"
       }
+    },
+    {
+      "metadata": {
+        "country_code": "CR",
+        "location": "San José",
+        "title": "Angular Costa Rica Meetup",
+        "date": "19",
+        "logo": "angular-costarica.svg",
+        "type": "meetup",
+        "desc": "Our third meetup is here, this time we've an international guess. Topics: \"Angular Interceptos\" and \"Scalable Angular Architecture\""
+      },
+      "links": {
+        "web": "https://www.meetup.com/gdg-costarica/events/260293789",
+        "twitter": "https://twitter.com/AngularCR"
+      }
     }
   ],
   "July": [
