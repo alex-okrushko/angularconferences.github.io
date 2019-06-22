@@ -575,6 +575,21 @@
         "web": "https://ng-de.org/",
         "twitter": "ngdeconf"
       }
+    },
+    {
+      "metadata": {
+        "country_code": "NP",
+        "location": "Kathmandu",
+        "title": "<ng-Nepal/> 2019",
+        "date": "31",
+        "logo": "ngnepal.svg",
+        "type": "conference",
+        "desc": "After huge success of ng-Nepal 2018, Nepal Mentor in association with AspNetCommunity is bringing Nepal's 2nd Angular Conference <ng-Nepal/> event in Kathmandu Nepal. We will be discovering: Angular best practices, SPA high performance, Angular forms & Component communication, DI with API, Angular Directives, Server-side rendering and Angular Material designs etc."
+      },
+      "links": {
+        "web": "https://ngnepal.com/",
+        "twitter": ""
+      }
     }
   ],
   "September": [
