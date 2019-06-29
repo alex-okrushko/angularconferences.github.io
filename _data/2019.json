@@ -403,22 +403,6 @@
     },
     {
       "metadata": {
-        "country_code": "LK",
-
-        "location": "Colombo",
-        "title": "ngSriLanka",
-        "date": "29-30",
-        "logo": "ngSriLanka.svg",
-        "type": "conference",
-        "desc": "ngSriLanka 2019 is Sri Lanka's first ever Angular conference. It will be held in Colombo and organized by the enthusiastic, local Angular community with over 800 developers"
-      },
-      "links": {
-        "web": "https://www.ng-srilanka.com/",
-        "twitter": "ngslconf"
-      }
-    },
-    {
-      "metadata": {
         "country_code": "CR",
         "location": "San José",
         "title": "Angular Costa Rica Meetup",
@@ -640,6 +624,22 @@
     },
     {
       "metadata": {
+        "country_code": "LK",
+
+        "location": "Colombo",
+        "title": "ngSriLanka",
+        "date": "14",
+        "logo": "ngSriLanka.svg",
+        "type": "conference",
+        "desc": "ngSriLanka 2019 is Sri Lanka's first ever Angular conference. It will be held in Colombo and organized by the enthusiastic, local Angular community with over 800 developers"
+      },
+      "links": {
+        "web": "https://www.ng-srilanka.com/",
+        "twitter": "ngslconf"
+      }
+    },
+    {
+      "metadata": {
         "country_code": "GR",
         "location": "Athens",
         "title": "Angular Athens",
@@ -682,7 +682,7 @@
         "web": "https://angular.ac",
         "twitter": "AngularAcademy"
       }
-    },	  
+    }	  
   ],
   "October": [
   {
