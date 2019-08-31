@@ -577,48 +577,18 @@
     }
   ],
   "September": [
-{
+    {
       "metadata": {
         "country_code": "CA",
-        "location": "Montréal",
-        "title": "Académie Angular",
+        "location": "Montreal",
+        "title": "Angular Academy",
         "date": "03-04",
         "logo": "angular-academy.svg",
         "type": "workshop",
-        "desc": "Académie Angular est un Workshop intensif de 2 jours pour les développeurs web professionnels! Apprendre Angular 8 et TypeScript Maintenant à Montréal avec cette formation immersive en classe avec instructeur!"
+        "desc": "Angular Academy is a 2-day intensive coding workshop for professional web developers in Canada! Learn Angular 8 and TypeScript Now in Montreal with this immersive instructor-led classroom training!"
       },
       "links": {
         "web": "https://angular.ac",
-        "twitter": "AngularAcademy"
-        }
-      },
-    {
-      "metadata": {
-        "country_code": "CA",
-        "location": "Ottawa",
-        "title": "Angular Academy",
-        "date": "10-11",
-        "logo": "angular-academy.svg",
-        "type": "workshop",
-        "desc": "Angular Academy is a 2-day intensive coding workshop for professional web developers in Canada! Learn Angular 8 and TypeScript Now in Ottawa with this immersive instructor-led classroom training!"
-      },
-      "links": {
-        "web": "https://angular.ac",
-        "twitter": "AngularAcademy"
-      }
-    },
-    {
-      "metadata": {
-        "country_code": "CA",
-        "location": "Montréal",
-        "title": "Académie Angular Avancé",
-        "date": "12",
-        "logo": "angular-academy.svg",
-        "type": "workshop",
-        "desc": "Académie Angular Avancé est un Workshop intensif de 1 jour pour les développeurs web professionnels! Apprendre des sujets avancés tels que NgRx maintenant à Montréal avec cette formation immersive en classe avec instructeur!"
-      },
-      "links": {
-        "web": "https://angular.ac/fr",
         "twitter": "AngularAcademy"
       }
     },
@@ -638,6 +608,21 @@
         "twitter": "ngslconf"
       }
     },
+    {
+      "metadata": {
+        "country_code": "CA",
+        "location": "Montréal",
+        "title": "Académie Angular",
+        "date": "16-17",
+        "logo": "angular-academy.svg",
+        "type": "workshop",
+        "desc": "Académie Angular est un Workshop intensif de 2 jours pour les développeurs web professionnels! Apprendre Angular 8 et TypeScript Maintenant à Montréal avec cette formation immersive en classe avec instructeur!"
+      },
+      "links": {
+        "web": "https://angular.ac/mtl-fr",
+        "twitter": "AngularAcademy"
+        }
+      },
     {
       "metadata": {
         "country_code": "GR",
@@ -673,18 +658,48 @@
         "country_code": "CA",
         "location": "Vancouver",
         "title": "Angular Academy",
-        "date": "17-18",
+        "date": "24-26",
         "logo": "angular-academy.svg",
         "type": "workshop",
         "desc": "Angular Academy is a 2-day intensive coding workshop for professional web developers in Canada! Learn Angular 8 and TypeScript Now in Vancouver with this immersive instructor-led classroom training!"
       },
       "links": {
-        "web": "https://angular.ac",
+        "web": "https://angular.ac/vancouver",
         "twitter": "AngularAcademy"
       }
-    }	  
+    },
+    {
+      "metadata": {
+        "country_code": "CA",
+        "location": "Montréal",
+        "title": "Académie Angular Avancé",
+        "date": "30",
+        "logo": "angular-academy.svg",
+        "type": "workshop",
+        "desc": "Académie Angular Avancé est un Workshop intensif de 1 jour pour les développeurs web professionnels! Apprendre des sujets avancés tels que NgRx maintenant à Montréal avec cette formation immersive en classe avec instructeur!"
+      },
+      "links": {
+        "web": "https://angular.ac/fr",
+        "twitter": "AngularAcademy"
+      }
+    },
   ],
   "October": [
+	      {
+      "metadata": {
+        "country_code": "DO",
+        "location": "Punta Cana",
+        "title": "Angular Academy",
+        "date": "02-03",
+        "logo": "angular-academy.svg",
+        "type": "workshop",
+        "desc": "Angular Academy is a 2-day intensive coding workshop for professional web developers! Learn Angular 8 and TypeScript Now in Punta Cana with this immersive instructor-led classroom training!"
+      },
+      "links": {
+        "web": "https://www.eventbrite.com/e/caribbean-developers-conference-2019-tickets-57020146794",
+        "twitter": "AngularAcademy"
+      }
+    },
   {
       "metadata": {
         "country_code": "ES",
@@ -717,6 +732,21 @@
     },
     {
       "metadata": {
+        "country_code": "CA",
+        "location": "Ottawa",
+        "title": "Angular Academy",
+        "date": "15-16",
+        "logo": "angular-academy.svg",
+        "type": "workshop",
+        "desc": "Angular Academy is a 2-day intensive coding workshop for professional web developers in Canada! Learn Angular 8 and TypeScript Now in Ottawa with this immersive instructor-led classroom training!"
+      },
+      "links": {
+        "web": "https://angular.ac",
+        "twitter": "AngularAcademy"
+      }
+    },
+    {
+      "metadata": {
         "country_code": "HN",
         "location": "San Pedro Sula",
         "title": "NG Honduras",
@@ -729,7 +759,22 @@
         "web": "https://ng-honduras.org/",
         "twitter": "https://twitter.com/AngularHonduras"
       }
-    }
+    },
+    {
+      "metadata": {
+        "country_code": "CA",
+        "location": "Toronto",
+        "title": "Angular Academy",
+        "date": "21-22",
+        "logo": "angular-academy.svg",
+        "type": "workshop",
+        "desc": "Angular Academy is a 2-day intensive coding workshop for professional web developers in Canada! Learn Angular 8 and TypeScript Now in Toronto with this immersive instructor-led classroom training!"
+      },
+      "links": {
+        "web": "https://angular.ac/toronto",
+        "twitter": "AngularAcademy"
+      }
+    },
   ],
   "November": [
     {
