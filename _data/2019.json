@@ -403,18 +403,17 @@
     },
     {
       "metadata": {
-        "country_code": "LK",
-
-        "location": "Colombo",
-        "title": "ngSriLanka",
-        "date": "29-30",
-        "logo": "ngSriLanka.svg",
-        "type": "conference",
-        "desc": "ngSriLanka 2019 is Sri Lanka's first ever Angular conference. It will be held in Colombo and organized by the enthusiastic, local Angular community with over 800 developers"
+        "country_code": "CR",
+        "location": "San José",
+        "title": "Angular Costa Rica Meetup",
+        "date": "19",
+        "logo": "angular-costarica.svg",
+        "type": "meetup",
+        "desc": "Our third meetup is here, this time we've an international guess. Topics: \"Angular Interceptos\" and \"Scalable Angular Architecture\""
       },
       "links": {
-        "web": "https://www.ng-srilanka.com/",
-        "twitter": "ngslconf"
+        "web": "https://www.meetup.com/gdg-costarica/events/260293789",
+        "twitter": "https://twitter.com/AngularCR"
       }
     }
   ],
@@ -534,13 +533,13 @@
         "country_code": "GR",
         "location": "Athens",
         "title": "Angular Athens",
-        "date": "02",
+        "date": "09",
         "logo": "angularathens.png",
         "type": "meetup",
         "desc": "Angular is one of the most popular front-end frameworks and has a massive and active community around the world. The new version of Angular is here to stay and we want to build a community in Athens in order to explore the huge ecosystem around this framework, learn new things and share our knowledge and best practices about Angular and front end development in general. This meetup is for both newbies and experienced developers who want to be part of this community. We organize regularly scheduled meetings and of course we are open to new ideas for talks, for presenters and volunteers."
       },
       "links": {
-        "web": "TBA",
+        "web": "https://www.meetup.com/Angular-Athens/events/262730086/",
         "twitter": "AthensAngular"
       }
     }
@@ -560,6 +559,21 @@
         "web": "https://ng-de.org/",
         "twitter": "ngdeconf"
       }
+    },
+    {
+      "metadata": {
+        "country_code": "NP",
+        "location": "Kathmandu",
+        "title": "<ng-Nepal/> 2019",
+        "date": "31",
+        "logo": "ngnepal.svg",
+        "type": "conference",
+        "desc": "After huge success of ng-Nepal 2018, Nepal Mentor in association with AspNetCommunity is bringing Nepal's 2nd Angular Conference <ng-Nepal/> event in Kathmandu Nepal. We will be discovering: Angular best practices, SPA high performance, Angular forms & Component communication, DI with API, Angular Directives, Server-side rendering and Angular Material designs etc."
+      },
+      "links": {
+        "web": "https://ngnepal.com/",
+        "twitter": ""
+      }
     }
   ],
   "September": [
@@ -578,21 +592,6 @@
         "twitter": "AngularAcademy"
         }
       },
-      {
-      "metadata": {
-        "country_code": "UA",
-        "location": "Kharkov",
-        "title": "ngTalks",
-        "date": "7-8",
-        "logo": "ngtalks.svg",
-        "type": "conference",
-        "desc": "Join us in a quest of developing a brighter Angular community, attend NgTalks, the first of many conference dedicated to latest and greatest news and insights from the global Angular network, covering best practices, approaches and cutting-edge trends."
-      },
-      "links": {
-        "web": "https://angular.ac/fr",
-        "twitter": "AngularAcademy"
-      }
-    },
     {
       "metadata": {
         "country_code": "CA",
@@ -625,6 +624,22 @@
     },
     {
       "metadata": {
+        "country_code": "LK",
+
+        "location": "Colombo",
+        "title": "ngSriLanka",
+        "date": "14",
+        "logo": "ngSriLanka.svg",
+        "type": "conference",
+        "desc": "ngSriLanka 2019 is Sri Lanka's first ever Angular conference. It will be held in Colombo and organized by the enthusiastic, local Angular community with over 800 developers"
+      },
+      "links": {
+        "web": "https://www.ng-srilanka.com/",
+        "twitter": "ngslconf"
+      }
+    },
+    {
+      "metadata": {
         "country_code": "GR",
         "location": "Athens",
         "title": "Angular Athens",
@@ -652,7 +667,7 @@
         "web": "https://www.angularconnect.com/",
         "twitter": "angularconnect"
       }
-    }
+    },
     {
       "metadata": {
         "country_code": "CA",
@@ -667,7 +682,7 @@
         "web": "https://angular.ac",
         "twitter": "AngularAcademy"
       }
-    },	  
+    }	  
   ],
   "October": [
   {
@@ -729,8 +744,8 @@
       },
       "links": {
       }
-    }
-  {
+    },
+    {
       "metadata": {
         "country_code": "UA",
         "location": "Kharkov",
@@ -744,7 +759,7 @@
         "web": "https://ngtalks.io/",
         "twitter": "ngTalks_ua"
       }
-    },	  
+    }	  
   ],
   "December": [
     {
