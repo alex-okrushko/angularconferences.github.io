@@ -574,6 +574,21 @@
         "web": "https://ngnepal.com/",
         "twitter": ""
       }
+    },
+    {
+      "metadata": {
+        "country_code": "BO",
+        "location": "Cochabamba",
+        "title": "NG Bolivia 2019",
+        "date": "23-24",
+        "logo": "ng-bo.png",
+        "type": "conference",
+        "desc": "NG Bolivia 2019, brings together the world-class experts in Angular, Web and Mobile technologies to Cochabamba, Bolivia for 2 days of sessions, workshops, and showcases."
+      },
+      "links": {
+        "web": "https://ng-bolivia.org/",
+        "twitter": "angularBolivia"
+      }
     }
   ],
   "September": [
